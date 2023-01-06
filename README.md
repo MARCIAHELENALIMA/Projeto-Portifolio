@@ -20,7 +20,7 @@
 #### 🧠 Coisas em que estou trabalhando atualmente:
 - Terminar minha graduação
 - Fazer cursos online sobre HTML5 | CSS | JavaScript | TypeScript | React  
-- Concluir meu site de portfólio (https://marciahelena-teste.netlify.app/) 🚀 *coming soon*
+- Concluir meu site de portfólio (https://marciahelenalima.github.io/Treinando-html-css/) 🚀 *coming soon*
 ##
 
 #### 🌱 Coisas com as quais estou me desafiando:
