@@ -9,10 +9,12 @@
 <p>Este projeto *Criando um site de Portfólio do ZERO* com Rodolfo Mori</p>
 
 <div> 
-  <a href="https://www.youtube.com/watch?v=JaOnoBTVKec&t=949s" target="_blank"><img src="https://user-images.githubusercontent.com/112713600/210852537-eb6e86d5-e695-46f0-a4ae-ffb66a1c8b8f.png" target="_blank" align="center" height="50" width="60"></a>
+  <a href="https://www.youtube.com/watch?v=JaOnoBTVKec&t=949s" target="_blank"><img src="https://user-images.githubusercontent.com/112713600/211118731-46f6b58f-4c33-4a82-afd4-1a1d531b988e.png" target="_blank" align="center" height="50" width="60"></a>
 </div>
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/112713600/210852025-9e569a7d-3385-472e-b807-2ceb4a9b1b16.png" width="50%" height="auto" />
+
+
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/112713600/211118639-f13aa6fa-4582-43b5-8c58-c73867dca8db.png" width="50%" height="auto" />
 
 
 #### 🧠 Coisas em que estou trabalhando atualmente:
