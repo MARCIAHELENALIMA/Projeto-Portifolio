@@ -141,7 +141,7 @@ section img {
 .card p{
     color: #f7bdcf;
     margin-top: 20px;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
 }
 
 .card a{
@@ -150,4 +150,9 @@ section img {
     padding: 10px 20px;
     border-radius: 25px;
     cursor: pointer;
+    transition: 0.7s;
+}
+.card a:hover{
+    background-color: transparent;
+    border: 2px solid #f9004d;
 }
