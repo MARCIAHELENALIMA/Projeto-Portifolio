@@ -110,3 +110,24 @@ section img {
     border: 3px solid #f9004d;
     transition: 0.7s;
 }
+
+.projects{
+    background-color: #191919;
+}
+
+.title-projects{
+    color: #ffffff;
+    font-size: 75px;
+}
+
+.card{
+    background-color: #000000;
+    height: 365px;
+    width: 365px;
+    border-radius: 20px;
+    padding: 20px 35px;
+}
+
+.card img{
+    height: 100px;
+}
