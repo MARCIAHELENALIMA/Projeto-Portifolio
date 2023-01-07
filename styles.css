@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Nunito Sans', sem serifa;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .master-carton{
@@ -23,12 +23,13 @@ nav{
     padding-top: 25px;
 }
 
-.portifolio{
+.portfolio {
     color: #ffffff;
-    font-size: 45px;
+    font-size: 40px;
+    font-weight: 600;
 }
 
-.portifolio span{
+.portfolio span {
     color: #f9004d;
 }
 
@@ -48,6 +49,7 @@ li:hover{
 
 .my-name{
     position: absolute;
+    font-size: 80px;
     top: 40%;
     left: 7%;
 
@@ -61,4 +63,19 @@ h1 span{
     color: #f9004d;
 }
 
-.my-name h3
+.my-name h3{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    padding: 60px 0;
+    background-color: #000000;
+}
+section img{
+    height: 350px;
+    border-radius: 80%;
+ 
+}
