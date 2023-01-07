@@ -126,8 +126,28 @@ section img {
     width: 365px;
     border-radius: 20px;
     padding: 20px 35px;
+    text-align: center;
 }
 
 .card img{
     height: 100px;
+}
+
+.text-projects{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.card p{
+    color: #f7bdcf;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.card a{
+    background-color: #f9004d;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
 }
