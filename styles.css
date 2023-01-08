@@ -14,13 +14,6 @@ body{
     font-weight: 500;
 }
 
-@media (max-width: 600px)
-{
-  .facet_sidebar
-   {
-    display: none;
-   }
-}
 
 .master-carton{
     height: 100vh;
