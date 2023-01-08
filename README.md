@@ -2,7 +2,7 @@
 <p>Hello, my name is Márcia, I'm a front-end development student.</p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MARCIAHELENALIMA)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciahelenalima/ target="_blank")
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marciahelenalima/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marciahelenalimac@gmail.com)
 
 <h3>Bem-vindo(a) ao meu repositório do Github! Estou cursando Analise e desenvolvimento de sistemas pela Unifatecie</h3>
